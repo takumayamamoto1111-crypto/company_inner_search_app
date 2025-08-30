@@ -21,6 +21,7 @@ from langchain_community.vectorstores import Chroma
 import constants as ct
 
 
+
 ############################################################
 # 設定関連
 ############################################################
